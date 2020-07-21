@@ -1,0 +1,25 @@
+baseURL: http://example.org/
+languageCode: fr-fr
+title: Snook Bowl Palace
+theme: sbp-theme
+sectionPagesMenu: main
+menu:
+  main:
+  - name: Accueil
+    url: /
+    weight: 1
+  - name: Bowling
+    url: /
+    weight: 2
+  - name: Billard
+    url: /
+    weight: 3
+  - name: Anniversaires
+    url: /
+    weight: 4
+  - name: Séminaires
+    url: /
+    weight: 5
+  - name: Snack
+    url: /
+    weight: 6
